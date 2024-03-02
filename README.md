@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/arikadesu/arikadesu/assets/114297889/277f59bb-109f-4954-8078-0772249c3032" />
+  <img src="https://github.com/arikadesu/arikadesu/assets/114297889/a6b63eb2-5f43-42fd-bc91-d4f1e4be7be1"/>
 </p>
 
 <pre align="center">
